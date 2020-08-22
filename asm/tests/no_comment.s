@@ -1,0 +1,5 @@
+# comment
+#com
+
+.name "zok"
+
